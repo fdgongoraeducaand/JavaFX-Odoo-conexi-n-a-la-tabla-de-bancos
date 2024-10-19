@@ -1,4 +1,4 @@
-# Para poder ejecutar el programa y tenga una BBDD a la que conectarse es necesario tener ejecutar el contenedor de Odoo. Para ello debemos tener Docker instalado en nuestro equipo.
+# Instrucciones para ejecutar el contenedor de Odoo que contiene la BBDD a la que se conecta el programa. 
 
 
 **1. INSTALACIÓN DE DOCKER Y DOCKER-COMPOSE**
