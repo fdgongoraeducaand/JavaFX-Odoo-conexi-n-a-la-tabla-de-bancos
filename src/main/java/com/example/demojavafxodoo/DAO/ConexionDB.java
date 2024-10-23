@@ -9,10 +9,12 @@ public class ConexionDB {
     public static Connection connection = null;
     public static Connection getConnection() {
 
+        //Parámetros de conexión
         String dbName = "Odoo";
         String dbPort = "5432";
         String username = "odoo";
         String password = "odoo";
+
 
         try {
             Class.forName("org.postgresql.Driver");
